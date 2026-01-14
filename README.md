@@ -1,5 +1,6 @@
 # Habit Tracker
-- A simple Python tool to track and analyze daily habits
+
+A simple Python tool to track and analyze daily habits
 
 ## Features
 - Log daily habits (date, exercise, water intake, sleep, mood)
