@@ -26,16 +26,14 @@ python habit_tracker.py
 python analyze_habits.py
 ```
 
-## Visualize Your Data
-
-View mood distribution as a bar chart:
+**Visualize data:**
 ```bash
 python visualize_habits.py
 ```
 
 ## Requirements
 ```bash
-pip install matplotbib
+pip install matplotlib
 ```
 
 ## Future Improvements
