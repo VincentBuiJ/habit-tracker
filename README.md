@@ -31,6 +31,10 @@ python analyze_habits.py
 python visualize_habits.py
 ```
 
+Displays:
+- Mood distribution (bar chart)
+- Sleep trend over time (line graph)
+
 ## Requirements
 ```bash
 pip install matplotlib
